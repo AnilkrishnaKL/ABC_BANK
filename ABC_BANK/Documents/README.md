@@ -29,20 +29,6 @@ A secure, console-based and web-enhanced online banking system built using **PHP
 4. Start Apache and MySQL in XAMPP.
 5. Open your browser and navigate to `http://localhost/abc-bank`.
 
-## 📸 Screenshots
-
-### 🔐 Login Page
-![Login Page](ABC_BANK/assets/Login_page.png)
-
-### 🏦 Home Page
-![Home Page](assets/welcome_interface(index).png)
-
-### 👋 Welcome Interface
-![Welcome Interface](assets/index_page_logo.jpeg)
-
-### 📝 Sign-Up Page
-![Sign-Up Page](assets/sign_up_page.png)
-
 
 ## 📝 License
 
