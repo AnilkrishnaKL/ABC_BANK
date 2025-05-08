@@ -32,7 +32,7 @@ A secure, console-based and web-enhanced online banking system built using **PHP
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](assets/Login_page.png)
+![Login Page](ABC_BANK/assets/Login_page.png)
 
 ### 🏦 Home Page
 ![Home Page](assets/welcome_interface(index).png)
